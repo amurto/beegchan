@@ -1,7 +1,7 @@
 ﻿![Image of Portal](images/logo.png)
 
 # CodeShastra 6.0
-Repository for CodeShastra 6.0 by Team Vortex.
+Repository for CodeShastra 6.0, 2020 by Team Vortex, finishing as 1st Runner's Up in the hackathon.
 
 # Problem Statement
 
@@ -29,8 +29,6 @@ We have implemented the following features as a part of this process:
 * User authentication is done using Vault which provides secure, store and tightly control access to tokens, passwords, certificates, encryption keys for protecting secrets and other sensitive data.
 * This provides an efficient and reliable identity management system for verification to the government for authorized public to claim these funds and enjoy the benefits of the same using Blockchain Technology.
 * A React dashboard for both the government and citizens for verification and management as well as disbursement of funds.
-
-The attention values are plotted in real time for the instructor to analyse.
  
 # Dependencies
 
